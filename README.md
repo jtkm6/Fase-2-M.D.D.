@@ -66,7 +66,7 @@ Comenzamos con el archivo [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_c
 
 ![GitHub Logo](./img/2.png)
 
-Los resultados obtenidos se encuentran en j48_de_palabras_claves.txt.
+Los resultados obtenidos se encuentran en [j48_de_palabras_claves.txt].
 El árbol se puede observar al hacer clic derecho sobre la ventana de resultados y seleccionar Visualizar árbol.
 
 ![GitHub Logo](./img/3.png)
@@ -83,7 +83,7 @@ Al ejecutarlo de nuevo, se obtienen unos nuevos resultados, (Correctly Classifie
 
 ![GitHub Logo](./img/5.png)
 
-Por otro lado, se procede a ejecutar los mismos pasos, pero esta vez con los atributos resumen – mención. Al usar el algoritmo J48 sobre [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff] se obtienen los resultados mostrados en el archivo j48_de_resumen.txt, muestra una precisión de 93%, qué es increíblemente alta.  La matriz de confusión también parece muy buena.
+Por otro lado, se procede a ejecutar los mismos pasos, pero esta vez con los atributos resumen – mención. Al usar el algoritmo J48 sobre [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff] se obtienen los resultados mostrados en el archivo [j48_de_resumen.txt], muestra una precisión de 93%, qué es increíblemente alta.  La matriz de confusión también parece muy buena.
 
 ![GitHub Logo](./img/6.png)
 
@@ -118,3 +118,7 @@ Para probar que tan fiable es este modelo se continúa con la prueba del mismo p
    [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff]: <./Datos_Proyecto_Stemmer_1-80-filtrado-palabras_claves.arff]>
    [Datos_Proyecto_Stemmer_1 - 80 - filtrado - resumen.arff]: <"./Datos_Proyecto_Stemmer_1-80-filtrado-resumen.arff">
    [Datos_Proyecto_Clasificar.txt]: <./In/Datos_Proyecto_Clasificar.txt>
+   [j48_de_palabras_claves.txt]: <./j48_de_palabras_claves.txt>
+   [j48_de_resumen.txt]: <./j48_de_resumen.txt>
+   [j48_de_palabras claves_test.txt]: <./j48_de_palabras claves_test.txt>
+   [j48_de_resumen_test.txt]: <./j48_de_resumen_test.txt>
