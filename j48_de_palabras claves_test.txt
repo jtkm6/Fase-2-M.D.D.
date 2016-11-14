@@ -1,0 +1,609 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.trees.J48 -- -C 0.25 -M 2
+Relation:     Datos_Proyecto_Stemmer_1 - 80-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.NominalToString-C1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"
+Instances:    165
+Attributes:   494
+              [list of attributes omitted]
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+J48 pruned tree
+------------------
+
+la <= 0
+|   olap <= 0
+|   |   ipv4 <= 0
+|   |   |   80211 <= 0
+|   |   |   |   bluetooth <= 0
+|   |   |   |   |   ipv6 <= 0
+|   |   |   |   |   |   postgr <= 0
+|   |   |   |   |   |   |   organizacional <= 0
+|   |   |   |   |   |   |   |   trabaj <= 0
+|   |   |   |   |   |   |   |   |   inalambr <= 0
+|   |   |   |   |   |   |   |   |   |   segur <= 0
+|   |   |   |   |   |   |   |   |   |   |   el <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   lom <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   xml <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   cienci <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   proyect <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mvc <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   control <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   rails <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   gener <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   electron <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   javascript <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   servici <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   clinic <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   sms <= 0: inteligencia artificial (49.0/10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   sms > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   clinic > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   servici > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   javascript > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   electron > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   gener > 0: aplicaciones internet (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   rails > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   control > 0: tecnologias en comunicaciones y redes de computadoras (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mvc > 0: base de datos (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on > 0: aplicaciones internet (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   proyect > 0: base de datos (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   cienci > 0: base de datos (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   xml > 0: base de datos (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   lom > 0: base de datos (2.0)
+|   |   |   |   |   |   |   |   |   |   |   el > 0: base de datos (2.0)
+|   |   |   |   |   |   |   |   |   |   segur > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   |   inalambr > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   trabaj > 0: sistemas de informacion (2.0)
+|   |   |   |   |   |   |   organizacional > 0: sistemas de informacion (2.0)
+|   |   |   |   |   |   postgr > 0: aplicaciones internet (13.0)
+|   |   |   |   |   ipv6 > 0: tecnologias en comunicaciones y redes de computadoras (3.0)
+|   |   |   |   bluetooth > 0: tecnologias en comunicaciones y redes de computadoras (3.0)
+|   |   |   80211 > 0: tecnologias en comunicaciones y redes de computadoras (5.0)
+|   |   ipv4 > 0: tecnologias en comunicaciones y redes de computadoras (16.0)
+|   olap > 0: sistemas de informacion (5.0)
+la > 0: base de datos (26.0)
+
+Number of Leaves  : 	27
+
+Size of the tree : 	53
+
+Attribute mappings:
+
+Model attributes             	    Incoming attributes
+-----------------------------	    ----------------
+(nominal)  mencion           	--> 1 (nominal)  mencion 
+(numeric) 20                 	--> - missing (no match)
+(numeric) 23                 	--> - missing (no match)
+(numeric) academ             	--> 3 (numeric) academ
+(numeric) acta               	--> - missing (no match)
+(numeric) actas              	--> - missing (no match)
+(numeric) administr          	--> - missing (no match)
+(numeric) agend              	--> - missing (no match)
+(numeric) agil               	--> - missing (no match)
+(numeric) ajax               	--> - missing (no match)
+(numeric) and                	--> - missing (no match)
+(numeric) aplic              	--> 5 (numeric) aplic
+(numeric) articul            	--> - missing (no match)
+(numeric) asignatur          	--> - missing (no match)
+(numeric) asistent           	--> - missing (no match)
+(numeric) at                 	--> - missing (no match)
+(numeric) aup                	--> - missing (no match)
+(numeric) automat            	--> - missing (no match)
+(numeric) automatiz          	--> 8 (numeric) automatiz
+(numeric) bas                	--> 9 (numeric) bas
+(numeric) bibliotec          	--> - missing (no match)
+(numeric) busconest          	--> - missing (no match)
+(numeric) calif              	--> - missing (no match)
+(numeric) ceapucv            	--> 10 (numeric) ceapucv
+(numeric) centr              	--> - missing (no match)
+(numeric) centraliz          	--> - missing (no match)
+(numeric) cientif            	--> - missing (no match)
+(numeric) cit                	--> - missing (no match)
+(numeric) clinic             	--> - missing (no match)
+(numeric) colabor            	--> - missing (no match)
+(numeric) comand             	--> - missing (no match)
+(numeric) comprob            	--> - missing (no match)
+(numeric) comput             	--> 84 (numeric) comput
+(numeric) comun              	--> - missing (no match)
+(numeric) comunitari         	--> 12 (numeric) comunitari
+(numeric) conest             	--> 13 (numeric) conest
+(numeric) consej             	--> - missing (no match)
+(numeric) constanci          	--> - missing (no match)
+(numeric) control            	--> 15 (numeric) control
+(numeric) coordin            	--> - missing (no match)
+(numeric) curricul           	--> - missing (no match)
+(numeric) dat                	--> 18 (numeric) dat
+(numeric) de                 	--> 19 (numeric) de
+(numeric) desarroll          	--> - missing (no match)
+(numeric) deusweb            	--> - missing (no match)
+(numeric) digital            	--> - missing (no match)
+(numeric) diseñ             	--> 20 (numeric) diseñ
+(numeric) division           	--> - missing (no match)
+(numeric) docent             	--> - missing (no match)
+(numeric) document           	--> - missing (no match)
+(numeric) dom                	--> - missing (no match)
+(numeric) drag               	--> - missing (no match)
+(numeric) drb                	--> - missing (no match)
+(numeric) drop               	--> - missing (no match)
+(numeric) eclips             	--> - missing (no match)
+(numeric) electron           	--> 22 (numeric) electron
+(numeric) enriquec           	--> - missing (no match)
+(numeric) entorn             	--> - missing (no match)
+(numeric) escol              	--> - missing (no match)
+(numeric) escuel             	--> - missing (no match)
+(numeric) estandar           	--> 26 (numeric) estandar
+(numeric) estudi             	--> 72 (numeric) estudi
+(numeric) evalu              	--> - missing (no match)
+(numeric) event              	--> - missing (no match)
+(numeric) extens             	--> - missing (no match)
+(numeric) extrem             	--> 27 (numeric) extrem
+(numeric) fac                	--> - missing (no match)
+(numeric) facult             	--> - missing (no match)
+(numeric) framework          	--> 115 (numeric) framework
+(numeric) gem                	--> 29 (numeric) gem
+(numeric) gener              	--> 30 (numeric) gener
+(numeric) generat            	--> - missing (no match)
+(numeric) gestion            	--> - missing (no match)
+(numeric) gobiern            	--> - missing (no match)
+(numeric) grabacion          	--> - missing (no match)
+(numeric) herramient         	--> 94 (numeric) herramient
+(numeric) heurist            	--> - missing (no match)
+(numeric) histori            	--> - missing (no match)
+(numeric) human              	--> 117 (numeric) human
+(numeric) independient       	--> - missing (no match)
+(numeric) inform             	--> - missing (no match)
+(numeric) ingenieri          	--> - missing (no match)
+(numeric) inscripcion        	--> - missing (no match)
+(numeric) interaccion        	--> 32 (numeric) interaccion
+(numeric) interfaz           	--> 33 (numeric) interfaz
+(numeric) intranet           	--> - missing (no match)
+(numeric) jav                	--> - missing (no match)
+(numeric) javascript         	--> - missing (no match)
+(numeric) jsp                	--> - missing (no match)
+(numeric) lenguaj            	--> 34 (numeric) lenguaj
+(numeric) medic              	--> - missing (no match)
+(numeric) metadat            	--> - missing (no match)
+(numeric) metodolog          	--> 122 (numeric) metodolog
+(numeric) metric             	--> - missing (no match)
+(numeric) migracion          	--> - missing (no match)
+(numeric) model              	--> 36 (numeric) model
+(numeric) modul              	--> 37 (numeric) modul
+(numeric) monitore           	--> - missing (no match)
+(numeric) movimient          	--> - missing (no match)
+(numeric) mozill             	--> - missing (no match)
+(numeric) mvc                	--> - missing (no match)
+(numeric) mysql              	--> - missing (no match)
+(numeric) not                	--> - missing (no match)
+(numeric) o                  	--> - missing (no match)
+(numeric) object             	--> - missing (no match)
+(numeric) on                 	--> 39 (numeric) on
+(numeric) openup             	--> - missing (no match)
+(numeric) opinion            	--> - missing (no match)
+(numeric) oracl              	--> - missing (no match)
+(numeric) pag                	--> - missing (no match)
+(numeric) patron             	--> 42 (numeric) patron
+(numeric) patronesd          	--> - missing (no match)
+(numeric) personal           	--> - missing (no match)
+(numeric) php                	--> - missing (no match)
+(numeric) plugin             	--> - missing (no match)
+(numeric) por                	--> - missing (no match)
+(numeric) postgr             	--> 44 (numeric) postgr
+(numeric) prepar             	--> - missing (no match)
+(numeric) presupuest         	--> - missing (no match)
+(numeric) proces             	--> 46 (numeric) proces
+(numeric) profesional        	--> - missing (no match)
+(numeric) program            	--> 47 (numeric) program
+(numeric) protocol           	--> - missing (no match)
+(numeric) prototip           	--> 49 (numeric) prototip
+(numeric) proyect            	--> - missing (no match)
+(numeric) rails              	--> 50 (numeric) rails
+(numeric) recip              	--> - missing (no match)
+(numeric) recurs             	--> - missing (no match)
+(numeric) report             	--> - missing (no match)
+(numeric) reproduccion       	--> - missing (no match)
+(numeric) rest               	--> - missing (no match)
+(numeric) resum              	--> - missing (no match)
+(numeric) reunion            	--> - missing (no match)
+(numeric) revers             	--> - missing (no match)
+(numeric) revist             	--> - missing (no match)
+(numeric) ria                	--> - missing (no match)
+(numeric) ruby               	--> 53 (numeric) ruby
+(numeric) rubyon             	--> - missing (no match)
+(numeric) scrum              	--> - missing (no match)
+(numeric) segund             	--> - missing (no match)
+(numeric) sensors            	--> - missing (no match)
+(numeric) serv               	--> - missing (no match)
+(numeric) servici            	--> 55 (numeric) servici
+(numeric) servidor           	--> - missing (no match)
+(numeric) servlets           	--> - missing (no match)
+(numeric) sistem             	--> 56 (numeric) sistem
+(numeric) siti               	--> 57 (numeric) siti
+(numeric) sms                	--> - missing (no match)
+(numeric) socioproduct       	--> - missing (no match)
+(numeric) sql                	--> - missing (no match)
+(numeric) struts2            	--> - missing (no match)
+(numeric) tagging            	--> - missing (no match)
+(numeric) tecnolog           	--> - missing (no match)
+(numeric) telemedicin        	--> - missing (no match)
+(numeric) ucv                	--> - missing (no match)
+(numeric) usabil             	--> 64 (numeric) usabil
+(numeric) usuari             	--> - missing (no match)
+(numeric) vist               	--> - missing (no match)
+(numeric) web                	--> 65 (numeric) web
+(numeric) wizard             	--> - missing (no match)
+(numeric) workflow           	--> - missing (no match)
+(numeric) xp                 	--> 69 (numeric) xp
+(numeric) xul                	--> - missing (no match)
+(numeric) y                  	--> 106 (numeric) y
+(numeric) 80211              	--> - missing (no match)
+(numeric) 802151             	--> - missing (no match)
+(numeric) 8021x              	--> - missing (no match)
+(numeric) adapt              	--> - missing (no match)
+(numeric) advertisement      	--> - missing (no match)
+(numeric) aes                	--> - missing (no match)
+(numeric) almacen            	--> - missing (no match)
+(numeric) anill              	--> - missing (no match)
+(numeric) anten              	--> - missing (no match)
+(numeric) are                	--> - missing (no match)
+(numeric) autent             	--> 7 (numeric) autent
+(numeric) autoconfiguration  	--> - missing (no match)
+(numeric) bluetooth          	--> - missing (no match)
+(numeric) bluez              	--> - missing (no match)
+(numeric) cam                	--> - missing (no match)
+(numeric) cap                	--> - missing (no match)
+(numeric) cautiv             	--> - missing (no match)
+(numeric) ccmp               	--> - missing (no match)
+(numeric) cga                	--> - missing (no match)
+(numeric) cisc               	--> 70 (numeric) cisc
+(numeric) corre              	--> 17 (numeric) corre
+(numeric) criptograf         	--> - missing (no match)
+(numeric) daemon             	--> - missing (no match)
+(numeric) didact             	--> - missing (no match)
+(numeric) differentiat       	--> - missing (no match)
+(numeric) diffserv           	--> - missing (no match)
+(numeric) discapac           	--> - missing (no match)
+(numeric) discovery          	--> - missing (no match)
+(numeric) disposit           	--> 71 (numeric) disposit
+(numeric) dual               	--> - missing (no match)
+(numeric) eigrp              	--> - missing (no match)
+(numeric) email              	--> - missing (no match)
+(numeric) enrut              	--> - missing (no match)
+(numeric) estand             	--> - missing (no match)
+(numeric) firm               	--> - missing (no match)
+(numeric) gnu                	--> - missing (no match)
+(numeric) hackers            	--> 73 (numeric) hackers
+(numeric) hil                	--> - missing (no match)
+(numeric) hospitaliz         	--> - missing (no match)
+(numeric) ieee               	--> - missing (no match)
+(numeric) inalambr           	--> 74 (numeric) inalambr
+(numeric) informat           	--> - missing (no match)
+(numeric) inventari          	--> - missing (no match)
+(numeric) ip                 	--> - missing (no match)
+(numeric) ipv4               	--> 75 (numeric) ipv4
+(numeric) ipv6               	--> - missing (no match)
+(numeric) ldap               	--> - missing (no match)
+(numeric) local              	--> - missing (no match)
+(numeric) lpt                	--> - missing (no match)
+(numeric) manej              	--> - missing (no match)
+(numeric) mensaj             	--> - missing (no match)
+(numeric) messag             	--> - missing (no match)
+(numeric) messaging          	--> - missing (no match)
+(numeric) mib                	--> - missing (no match)
+(numeric) movil              	--> - missing (no match)
+(numeric) mta                	--> - missing (no match)
+(numeric) multicast          	--> - missing (no match)
+(numeric) musical            	--> - missing (no match)
+(numeric) neighbor           	--> - missing (no match)
+(numeric) of                 	--> - missing (no match)
+(numeric) pan                	--> - missing (no match)
+(numeric) pda                	--> - missing (no match)
+(numeric) peer               	--> - missing (no match)
+(numeric) perfil             	--> - missing (no match)
+(numeric) piconet            	--> - missing (no match)
+(numeric) portal             	--> - missing (no match)
+(numeric) postfix            	--> - missing (no match)
+(numeric) qos                	--> - missing (no match)
+(numeric) quality            	--> - missing (no match)
+(numeric) radiofrecuent      	--> - missing (no match)
+(numeric) radius             	--> - missing (no match)
+(numeric) red                	--> 51 (numeric) red
+(numeric) redessimul         	--> - missing (no match)
+(numeric) reserv             	--> - missing (no match)
+(numeric) rf                 	--> - missing (no match)
+(numeric) ring               	--> - missing (no match)
+(numeric) rout               	--> - missing (no match)
+(numeric) rtp                	--> - missing (no match)
+(numeric) scatternet         	--> - missing (no match)
+(numeric) segur              	--> 54 (numeric) segur
+(numeric) servic             	--> - missing (no match)
+(numeric) short              	--> - missing (no match)
+(numeric) sig                	--> - missing (no match)
+(numeric) sit                	--> 76 (numeric) sit
+(numeric) smpp               	--> - missing (no match)
+(numeric) snmp               	--> - missing (no match)
+(numeric) softwar            	--> - missing (no match)
+(numeric) spam               	--> - missing (no match)
+(numeric) spamassassin       	--> - missing (no match)
+(numeric) stateless          	--> - missing (no match)
+(numeric) streaming          	--> - missing (no match)
+(numeric) survey             	--> 77 (numeric) survey
+(numeric) system             	--> - missing (no match)
+(numeric) systems            	--> 78 (numeric) systems
+(numeric) text               	--> - missing (no match)
+(numeric) to                 	--> - missing (no match)
+(numeric) tok                	--> - missing (no match)
+(numeric) topolog            	--> - missing (no match)
+(numeric) utm                	--> - missing (no match)
+(numeric) vent               	--> - missing (no match)
+(numeric) wifi               	--> - missing (no match)
+(numeric) windows            	--> - missing (no match)
+(numeric) wlan               	--> - missing (no match)
+(numeric) wpa2               	--> - missing (no match)
+(numeric) wpan               	--> - missing (no match)
+(numeric) zimbr              	--> - missing (no match)
+(numeric) a                  	--> 2 (numeric) a
+(numeric) alcanc             	--> - missing (no match)
+(numeric) alons              	--> - missing (no match)
+(numeric) ambar              	--> - missing (no match)
+(numeric) analisis           	--> 108 (numeric) analisis
+(numeric) aprendizaj         	--> - missing (no match)
+(numeric) arquitectur        	--> 6 (numeric) arquitectur
+(numeric) asoci              	--> - missing (no match)
+(numeric) backgroundrb       	--> - missing (no match)
+(numeric) bdo                	--> - missing (no match)
+(numeric) body               	--> - missing (no match)
+(numeric) bubag              	--> - missing (no match)
+(numeric) busqued            	--> - missing (no match)
+(numeric) calid              	--> - missing (no match)
+(numeric) cbir               	--> - missing (no match)
+(numeric) central            	--> - missing (no match)
+(numeric) cienci             	--> - missing (no match)
+(numeric) cliente/servidor   	--> - missing (no match)
+(numeric) clienteservidor    	--> 11 (numeric) clienteservidor
+(numeric) con                	--> - missing (no match)
+(numeric) conoc              	--> 112 (numeric) conoc
+(numeric) content            	--> - missing (no match)
+(numeric) correspondent      	--> 86 (numeric) correspondent
+(numeric) cost               	--> - missing (no match)
+(numeric) creacion           	--> 87 (numeric) creacion
+(numeric) cuent              	--> - missing (no match)
+(numeric) deestudi           	--> - missing (no match)
+(numeric) defin              	--> - missing (no match)
+(numeric) desing             	--> - missing (no match)
+(numeric) direccion          	--> - missing (no match)
+(numeric) distribu           	--> 21 (numeric) distribu
+(numeric) el                 	--> - missing (no match)
+(numeric) en                 	--> 24 (numeric) en
+(numeric) estudiantil        	--> 91 (numeric) estudiantil
+(numeric) fall               	--> - missing (no match)
+(numeric) fundament          	--> - missing (no match)
+(numeric) gamer              	--> - missing (no match)
+(numeric) gui                	--> - missing (no match)
+(numeric) imagen             	--> 118 (numeric) imagen
+(numeric) ims                	--> - missing (no match)
+(numeric) internet           	--> - missing (no match)
+(numeric) knowledg           	--> - missing (no match)
+(numeric) la                 	--> 96 (numeric) la
+(numeric) las                	--> - missing (no match)
+(numeric) learning           	--> - missing (no match)
+(numeric) lom                	--> - missing (no match)
+(numeric) lot                	--> - missing (no match)
+(numeric) managemet          	--> - missing (no match)
+(numeric) met                	--> - missing (no match)
+(numeric) mvcruby            	--> - missing (no match)
+(numeric) oa                 	--> - missing (no match)
+(numeric) objet              	--> - missing (no match)
+(numeric) observatori        	--> - missing (no match)
+(numeric) orient             	--> 40 (numeric) orient
+(numeric) packaging          	--> - missing (no match)
+(numeric) par                	--> 98 (numeric) par
+(numeric) pmbok              	--> - missing (no match)
+(numeric) pmi                	--> - missing (no match)
+(numeric) project            	--> - missing (no match)
+(numeric) punt               	--> - missing (no match)
+(numeric) repar              	--> - missing (no match)
+(numeric) repositori         	--> - missing (no match)
+(numeric) revision           	--> - missing (no match)
+(numeric) rrhh               	--> - missing (no match)
+(numeric) scorm              	--> - missing (no match)
+(numeric) soap               	--> - missing (no match)
+(numeric) solicitud          	--> 102 (numeric) solicitud
+(numeric) tar                	--> - missing (no match)
+(numeric) tecnic             	--> 103 (numeric) tecnic
+(numeric) tiemp              	--> - missing (no match)
+(numeric) transaccional      	--> - missing (no match)
+(numeric) univers            	--> - missing (no match)
+(numeric) venezuel           	--> - missing (no match)
+(numeric) vertical           	--> - missing (no match)
+(numeric) xml                	--> - missing (no match)
+(numeric) abstraccion        	--> - missing (no match)
+(numeric) acuat              	--> - missing (no match)
+(numeric) afeccion           	--> - missing (no match)
+(numeric) agent              	--> - missing (no match)
+(numeric) agrolog            	--> 107 (numeric) agrolog
+(numeric) agronom            	--> - missing (no match)
+(numeric) agrup              	--> - missing (no match)
+(numeric) arbol              	--> - missing (no match)
+(numeric) artificial         	--> - missing (no match)
+(numeric) ausent             	--> - missing (no match)
+(numeric) autoorganiz        	--> - missing (no match)
+(numeric) bioinspir          	--> - missing (no match)
+(numeric) borros             	--> - missing (no match)
+(numeric) captur             	--> - missing (no match)
+(numeric) cas                	--> 109 (numeric) cas
+(numeric) catalog            	--> - missing (no match)
+(numeric) celul              	--> - missing (no match)
+(numeric) clasif             	--> - missing (no match)
+(numeric) clav               	--> - missing (no match)
+(numeric) coloni             	--> 110 (numeric) coloni
+(numeric) commonkads         	--> 111 (numeric) commonkads
+(numeric) decision           	--> - missing (no match)
+(numeric) del                	--> - missing (no match)
+(numeric) dicotom            	--> - missing (no match)
+(numeric) digitaliz          	--> - missing (no match)
+(numeric) e                  	--> - missing (no match)
+(numeric) edafolog           	--> - missing (no match)
+(numeric) elev               	--> - missing (no match)
+(numeric) espermat           	--> - missing (no match)
+(numeric) expect             	--> 114 (numeric) expect
+(numeric) extension          	--> - missing (no match)
+(numeric) extraccion         	--> - missing (no match)
+(numeric) generaliz          	--> - missing (no match)
+(numeric) hibr               	--> - missing (no match)
+(numeric) hopfield           	--> - missing (no match)
+(numeric) hormig             	--> 116 (numeric) hormig
+(numeric) hotdeck            	--> - missing (no match)
+(numeric) ingeni             	--> - missing (no match)
+(numeric) insect             	--> - missing (no match)
+(numeric) integr             	--> 31 (numeric) integr
+(numeric) inteligent         	--> - missing (no match)
+(numeric) intercambi         	--> - missing (no match)
+(numeric) jad                	--> - missing (no match)
+(numeric) jadex              	--> - missing (no match)
+(numeric) jen                	--> - missing (no match)
+(numeric) jpox               	--> - missing (no match)
+(numeric) kohon              	--> - missing (no match)
+(numeric) laboratori         	--> - missing (no match)
+(numeric) lineal             	--> - missing (no match)
+(numeric) lvq                	--> - missing (no match)
+(numeric) map                	--> - missing (no match)
+(numeric) maquin             	--> - missing (no match)
+(numeric) mascommonkads      	--> - missing (no match)
+(numeric) maxim              	--> 121 (numeric) maxim
+(numeric) medi               	--> - missing (no match)
+(numeric) methontology       	--> - missing (no match)
+(numeric) min                	--> - missing (no match)
+(numeric) morfolog           	--> 123 (numeric) morfolog
+(numeric) multiagent         	--> - missing (no match)
+(numeric) neuronal           	--> 124 (numeric) neuronal
+(numeric) no                 	--> - missing (no match)
+(numeric) oftalmolog         	--> - missing (no match)
+(numeric) ontolog            	--> - missing (no match)
+(numeric) optimiz            	--> - missing (no match)
+(numeric) owl                	--> - missing (no match)
+(numeric) owldl              	--> - missing (no match)
+(numeric) paisaj             	--> - missing (no match)
+(numeric) plataform          	--> - missing (no match)
+(numeric) plugins            	--> - missing (no match)
+(numeric) proteg             	--> - missing (no match)
+(numeric) razon              	--> 125 (numeric) razon
+(numeric) reconoc            	--> - missing (no match)
+(numeric) regl               	--> 126 (numeric) regl
+(numeric) regresion          	--> - missing (no match)
+(numeric) retropropag        	--> - missing (no match)
+(numeric) satelital          	--> - missing (no match)
+(numeric) seleccion          	--> - missing (no match)
+(numeric) sem                	--> 127 (numeric) sem
+(numeric) similitud          	--> - missing (no match)
+(numeric) siscl              	--> - missing (no match)
+(numeric) som                	--> - missing (no match)
+(numeric) soport             	--> - missing (no match)
+(numeric) suel               	--> - missing (no match)
+(numeric) supervis           	--> - missing (no match)
+(numeric) sustitu            	--> - missing (no match)
+(numeric) telefon            	--> - missing (no match)
+(numeric) test               	--> - missing (no match)
+(numeric) trep               	--> - missing (no match)
+(numeric) unidad             	--> - missing (no match)
+(numeric) valid              	--> - missing (no match)
+(numeric) vectorial          	--> - missing (no match)
+(numeric) visualiz           	--> - missing (no match)
+(numeric) wartegg            	--> - missing (no match)
+(numeric) ahorr              	--> - missing (no match)
+(numeric) aloj               	--> - missing (no match)
+(numeric) analiz             	--> - missing (no match)
+(numeric) analytical         	--> - missing (no match)
+(numeric) bpm                	--> - missing (no match)
+(numeric) bpms               	--> - missing (no match)
+(numeric) cambi              	--> - missing (no match)
+(numeric) charact            	--> - missing (no match)
+(numeric) colect             	--> - missing (no match)
+(numeric) conten             	--> - missing (no match)
+(numeric) css                	--> - missing (no match)
+(numeric) datawarehous       	--> - missing (no match)
+(numeric) enterpris          	--> - missing (no match)
+(numeric) erp                	--> - missing (no match)
+(numeric) escrit             	--> - missing (no match)
+(numeric) establec           	--> - missing (no match)
+(numeric) estrategi          	--> - missing (no match)
+(numeric) fluj               	--> - missing (no match)
+(numeric) html               	--> - missing (no match)
+(numeric) intali             	--> - missing (no match)
+(numeric) interf             	--> - missing (no match)
+(numeric) investig           	--> - missing (no match)
+(numeric) itil               	--> - missing (no match)
+(numeric) jquery             	--> - missing (no match)
+(numeric) kimball            	--> - missing (no match)
+(numeric) libr               	--> - missing (no match)
+(numeric) lin                	--> - missing (no match)
+(numeric) metod              	--> - missing (no match)
+(numeric) negoci             	--> 38 (numeric) negoci
+(numeric) ocr                	--> - missing (no match)
+(numeric) ofert              	--> - missing (no match)
+(numeric) olap               	--> - missing (no match)
+(numeric) optical            	--> - missing (no match)
+(numeric) organiz            	--> - missing (no match)
+(numeric) organizacional     	--> - missing (no match)
+(numeric) pentah             	--> - missing (no match)
+(numeric) planif             	--> - missing (no match)
+(numeric) planning           	--> - missing (no match)
+(numeric) ponder             	--> - missing (no match)
+(numeric) postgresql         	--> - missing (no match)
+(numeric) prens              	--> - missing (no match)
+(numeric) processing         	--> - missing (no match)
+(numeric) product            	--> - missing (no match)
+(numeric) publicitari        	--> - missing (no match)
+(numeric) ralph              	--> - missing (no match)
+(numeric) recognition        	--> - missing (no match)
+(numeric) relacional         	--> - missing (no match)
+(numeric) resourc            	--> - missing (no match)
+(numeric) roadmap            	--> - missing (no match)
+(numeric) soa                	--> 58 (numeric) soa
+(numeric) trabaj             	--> - missing (no match)
+(numeric) turism             	--> - missing (no match)
+(numeric) turist             	--> - missing (no match)
+(numeric) valor              	--> 105 (numeric) valor
+(numeric) visit              	--> - missing (no match)
+(numeric) zend               	--> - missing (no match)
+
+
+Time taken to build model: 0.17 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.02 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          40               85.1064 %
+Incorrectly Classified Instances         7               14.8936 %
+Kappa statistic                          0.7928
+Mean absolute error                      0.0992
+Root mean squared error                  0.2231
+Relative absolute error                 32.0037 %
+Root relative squared error             57.0001 %
+Total Number of Instances               47     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.800    0.000    1.000      0.800    0.889      0.835    0.939     0.931     aplicaciones internet
+                 1.000    0.081    0.769      1.000    0.870      0.841    1.000     1.000     tecnologias en comunicaciones y redes de computadoras
+                 0.769    0.029    0.909      0.769    0.833      0.782    0.963     0.900     base de datos
+                 1.000    0.070    0.571      1.000    0.727      0.729    0.965     0.571     inteligencia artificial
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         sistemas de informacion
+Weighted Avg.    0.851    0.031    0.889      0.851    0.856      0.812    0.961     0.907     
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e   <-- classified as
+ 16  2  1  1  0 |  a = aplicaciones internet
+  0 10  0  0  0 |  b = tecnologias en comunicaciones y redes de computadoras
+  0  1 10  2  0 |  c = base de datos
+  0  0  0  4  0 |  d = inteligencia artificial
+  0  0  0  0  0 |  e = sistemas de informacion
+

@@ -1,0 +1,213 @@
+monitoreo de usuarios, reproducción automática, eventos, grabación, javascript, page tagging, document object model (dom).
+ipv6, neighbor discovery, criptografía, firma digital, seguridad, cga.
+pmbok (project managemet body of knowledge, guía de fundamentos de la dirección de proyectos).
+seguridad, capas
+máquinas de soporte vectorial, extracción de reglas, árboles de decisión, trepan.
+morfología espermática, inteligencia artificial, procesamiento digital de imágenes.
+mozilla, xul, web, aplicación, servicios web.
+historia clínica digital, erp (enterprise resource planning), software libre.
+ucv, escuela de computación, aplicación web, tecnologías de desarrollo web, rubyon rails, modelado ágil. metodología de desarrollo aup, estándares de diseño web, usabilidad, patronesde interacción.
+aplicaciones web. telemedicina. segunda opinion medica.
+busconest, conest, biblioteca, ruby on rails
+administración de redes, ipv4, ipv6, snmp, mib, gnu.
+plug-in, eclipse, sql, base de datos.
+, escuela de computación, aplicación, reproducción automática, ruby on rails, 
+ontología, sitios web, visualización de ontologías, owl-dl, visualizador generalizado.
+escuela de computación, aplicación, reproducción automática, ruby on rails, estándares de diseño web, 
+, neighbor discovery, capas, gnu, ipv4, 
+smpp, short message peer to peer, sms, short messaging system, mensajería de texto.
+métricas struts2, java server faces, servicio comunitario
+ajax, sistema, web, gestión escolar, ceapucv
+token ring, sistema didáctico, topología de anillo, redes,simulador
+proyectos socio-productivos, gobierno electrónico, herramienta web.
+generador deusweb generato aplicaciones web administrativas php jsp ingenieria reverso modelo base datos extensible oracle postgres mysql scrum servlets metadata wizard asistente
+comunicación, web, medios, prensa escrita, análisis morfológico, análisis de contenido, investigar, organizar, analizar, ponderar, valorar.
+sistemas de información transaccional, workflow, correspondencia, punto de cuenta, xp, mvc.
+red inalámbrica, autenticación, radius, ldap, portal cautivo
+objetos de aprendizaje (oa), metadata, repositorio de objetos de aprendizaje, repositorio de metadata, servicios web, lom.
+tecnologías para el desarrollo de aplicaciones web, modelo vista controlador (mvc),ruby on rails, cliente/servidor, solicitudes estudiantiles, división de control deestudios, conest.
+reporte, ruby on rails, wizard, mysql, vistas.
+estándar 802.15.1, wpan, sig bluetooth, piconet, scatternet, perfil pan, bluez.
+intranet, comunicación, centralización, sistema colaborativo, php, javascript.
+coordinación de postgrado, académico, automatización, aplicación web, postgrados, ruby on rails, estudiantes, docentes.
+estrategia organizacional, procesos, interfase, dispositivos móviles, ahorro, productividad y servicio.
+estándar 802.15.1, wpan, sig bluetooth, piconet, scatternet, perfil pan, bluez.
+sms, ruby, gem, comandos at
+stateless autoconfiguration, router advertisement, ipv6, windows, service, daemon, server.
+conest, conest 2.0, modelo vista controlador (mvc), ruby on rails, rails 2.3, migración de datos, migración de tecnologías, división de control de estudios, web 2.0, programación extrema (xp).
+aplicación colaborativa, reuniones electrónicas, protocolo de comunicación, agendas y actas, modelado ágil, patrones de interacción, ruby on rails, modelo vista controlador (mvc)
+historias médicas, dispositivos móviles, redes inalámbricas, hospitalizaciones, ieee 802.11.
+redes inalámbricas, wlan, ieee 802.11, wi-fi, seguridad, wpa2, ieee 802.1x, ccmp, aes.
+bpm,, bpms,, intalio,, itil,, proceso de gestión de cambios,, soa,, web services
+sistema de información, control de inventario, manejo de reservaciones, dispositivo móvil, desarrollo web, diseño, automatización, almacén.
+inteligencia de negocio,, datawarehouse,, pentaho,, análisis,, olap,, integración de datos,, metodología de ralph kimball.
+utm, seguridad informática, lpt, hackers, servicios de seguridad informática.
+conest, conest 2.0, ruby, rails, mysql, backgroundrb, reportes, constancias, tareas en lote.
+redes,, dispositivos inalámbricos,, dispositivos móviles,, web móvil,, pda,, web,, php,, mysql
+mas-commonkads, multi-agentes, suelos, gestionar, software.
+preparadores, presupuesto, movimiento de personal, recursos humanos, consejo de facultad.
+gestión de preparadores, gestión por procesos, workflow, servicios web, openup, ruby on rails
+coordinación de postgrados, workflow, estudiantes, docentes, conest postgrado.
+colonias de hormigas, framework, optimización, sistemas bioinspirados, inteligencia artificial
+spam e-mail zimbra postfix spamassassin mta correo electronico
+eigrp, rtp, dual, cisco systems, protocolo de enrutamiento, java.
+proyecto, gestión de proyecto, herramientas y técnicas, área de conocimientos, alcance, tiempo, costes, rrhh, revisión, falla, reparación.
+wlan, ieee 802.11, quality of service, qos, differentiated services, diffserv, cámaras ip.
+agente, captura de datos, dispositivo móvil, jade, metodología de agentes, siscla, agentes inteligentes, agronomía, edafólogo, agrologo, laboratorio de inteligencia artificial
+turismo, establecimientos turísticos, turismo de oferta, alojamiento colectivo, aup, mvc, javascript, php, postgresql.
+generador de sitios web, profesionales independientes, usabilidad, evaluación heurística.
+wlan, ieee 802.11, quality of service, qos, differentiated services, diffserv, cámaras ip.
+planificación organizacional
+procesamiento digital de imágenes, optical character recognition (ocr), aplicaciones web, facultad de ciencias ucv.
+sistemas de información, aplicaciones de trabajo colaborativo, control de visitas, controles de eventos, lenguajes de programación, servidor web, base de datos, programación extrema, scrum, mysql, php, zend framework, jquery, javascript, ajax, css, html, web 2.0.
+centro de datos, interfaz enriquecida o entorno ria, framework de desarrollo, servidor de aplicaciones, drag and drop, rest, drb, sensors, base de datos.
+constancia, módulo, coordinación de postgrado, conest, inscripción, calificación, acta de notas, resumen curricular, comprobante de inscripción, ruby on rails.
+proyecto, gestión de proyectos, gestión de las comunicaciones, pmi, pmbok.
+universidad central de venezuela, facultad de ciencias, escuela de computación, biblioteca alonso gamero, gestión de documentos, aplicación web, búsqueda de documentos electrónicos, ruby on rails, programación extrema (xp), bubag.
+unidad de servicio comunitario, servicio comunitario, prestador comunitario, tutor académico, tutor comunitario, aplicación web, programación extrema, ruby on rails.
+ metodología de desarrollo, áreas de conocimiento, técnicas y herramientas para la creación de sistemas, análisis, calidad, software, alcance, tiempo, costes, recurso humano.
+ipv6, multicast, hilos musicales, servidor de streaming.
+ red de área local inalámbrica, ieee 802.11, wi-fi, wlan, site survey (estudio de sitio), antena, radiofrecuencia (rf)
+historia clínica, historia clínica digital, informe, récipe, cita, programación extrema (xp), base de datos, tecnologías.
+sistema multiagentes, jade, análisis de semen humano, ingenias, objetos de intercambio.
+sistemas basados en conocimiento, commonkads, selección de personal, test de wartegg, agentes
+sistema multiagente, ontologías, protégé, ingenias, jade, protocolos de comunicación
+razonamiento basado en casos, razonamiento basado en reglas, arquitecturas híbridas inteligentes, análisis de semen humano
+ontología, protégé, owl, visualización de ontología
+sistema multiagente, base de datos, plataforma jade, jpox, ingenias
+razonamiento basado en casos, razonamiento basado en reglas, métricas de similitud
+ontología, insectos acuáticos, aplicación web,  visualización, owl, protégé, jena.
+sistema basado en conocimiento, agente inteligente, insectos acuáticos, claves dicotómicas.
+ontologías, visualización de ontologías, methontology.
+extracción de reglas, reglas de clasificación, reglas de asociación, usabilidad.
+observatorio, comunidades, asociaciones, aplicaciones con tecnología internet, sistemas de información, arquitectura vertical, modelos definidos por el usuario, meta datos.
+conest 20, solicitudes estudiantiles, servicios web, técnicas y herramientas para la creación de sistemas, rails, 
+feveda, control de procesos estadísticos, aplicación web, xp extreme programming.
+integridad, confidencialidad, automatización, seguridad en redes, arquitectura orientada a servicios, autenticación.
+email-marketing, correos electrónicos, aplicaciones web, proceso unificado (up), lenguaje de modelado unificado (uml).
+, organizar, facultad de ciencias ucv, bpm, olap, 
+organizar, facultad de ciencias ucv, bpm, olap, mysql, 
+organizar, facultad de ciencias ucv, bpm, olap, mysql, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+pentaho, inteligencia de negocios, datawarehouse, análisis, métricas, olap (on- line analytical processing) y método roadmap.
+análisis de semen humano, razonamiento basado en casos, razonamiento basado en reglas, mantenimiento y creación.
+workflow, trabajo colaborativo, servicios publicitarios, control del flujo de trabajo, aplicaciones con tecnología internet, sistemas de información, bases de datos relaciónales.
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+ipv4, cisco systems, site survey (estudio de sitio), dispositivos inalámbricos, hackers, 
+software, discapacidad, ventas, pda, bluetooth.
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+biblioteca digital, dispositivos móviles, documentos electrónicos, aplicaciones adaptativas.
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+ventas, ipv4, cisco systems, bluetooth, software, 
+administración de redes, snmp, mib.
+servicios web, arquitectura soap, base de datos orientada a objetos (bdoo), objetos de aprendizaje (oa), scorm, lom, ims content packaging, ims learning desing, repositorio de oa, ambar, aplicaciones cliente-servidor.
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+, agrologo, plataforma jade, test de wartegg, colonias de hormigas, 
+agrologo, plataforma jade, test de wartegg, colonias de hormigas, sitios web, 
+agrologo, plataforma jade, test de wartegg, colonias de hormigas, sitios web, 
+telefonía celular, red de retropropagación, reconocimiento de patrones.
+agrologo, plataforma jade, test de wartegg, colonias de hormigas, sitios web, 
+agrologo, plataforma jade, test de wartegg, colonias de hormigas, sitios web, 
+agrologo, plataforma jade, test de wartegg, colonias de hormigas, sitios web, 
+agrologo, plataforma jade, test de wartegg, colonias de hormigas, sitios web, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+sistemas distribuidos, orquestación servicios web, webscraping, soa
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+procesos de negocios, ws-cdl, ws-bpel, coreografía, orquestación, servicio web.
+aplicaciones web, conest, ruby on rails, base de datos, pensum, programación extrema.
+redes neuronales no supervisadas, mapas autoorganizados. red de agrupamiento borroso de kohonen, modelos digitales de elevación, imágenes satelitales, clasificación del paisaje y suelo.
+rfid, ruby, middleware, cliente-servidor, gem
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+usabilidad, lenguaje de patrones de interacción, prototipo de interfaz, generador de sitios web, sitios web de alcaldías.
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+cbir, sistemas manejadores de base de datos, base de datos xml
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+sistema manejador de bases de datos distribuido, bases de datos de imágenes, bases de datos xml.
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+conest 20, solicitudes estudiantiles, arquitectura soap, técnicas y herramientas para la creación de sistemas, rails, 
+aplicación, proceso de inscripción, control de notas, control de asistencias
+agrologo, plataforma jade, test de wartegg, colonias de hormigas, sitios web, 
+procesamiento de imágenes, reconocimiento de oftalmológicas, redes neuronales, imágenes digitalizadas, patrones, afecciones
+sistemas basados en conocimiento, commonkads, selección de personal, test de wartegg, agentes.
+redes neuronales, extracción de reglas, trepan, árboles de decisión, aplicación web.
+redes neuronales, lvq, mapas autoorganizativos, hopfield, som.
+agrologo, colonias de hormigas, sitios web, framework, optimización, 
+agrologo, colonias de hormigas, sitios web, framework, optimización, 
+agrologo, colonias de hormigas, sitios web, framework, optimización, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+minería de datos, datos ausentes, sustitución por media, hotdeck, regresión lineal, máxima expectación.
+máxima expectación, agrologo, colonias de hormigas, sitios web, framework, 
+integración, usabilidad, unidades de abstracción y validación, redes neuronales, aprendizaje supervisado, no supervisado e híbrido.
+catalogación, clasificación, agrupamiento, minería de datos
+agentes, sistemas multi-agente, jade, jadex, eclipse, extensiones (plugins).
+máxima expectación, agrologo, colonias de hormigas, sitios web, framework, 
+análisis de líquido seminal, sistemas basados en conocimiento, metodología commonkads
+procesamiento de imágenes,  redes neuronales, análisis de semen humano, morfología de espermatozoides
+análisis de semen humano, razonamiento basado en casos, razonamiento basado en reglas, mantenimiento y creación.
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+usabilidad, lenguaje de patrones de interacción, prototipo de interfaz, generador de sitios web, sitios web de asignaturas.
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+generador de revistas electrónicas, revistas electrónicas, artículos científicos, lenguaje de patrones de interacción, usabilidad.
+ceapucv, aplicación, estándares de diseño web, módulo, postgrados, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+impuesto al valor agregado, plan evasión cero, contribuyentes especiales, contribuyente ordinarios, contribuyente formales, declaración electrónica, seniat.
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 
+proceso, técnicas de modelación, automatización, deporte de alta competencia.
+seminario,    tesis,    computación,    técnicas    de modelación, automatización.
+solicitudes estudiantiles, aplicación, técnicas y herramientas para la creación de sistemas, rails, correspondencia, 

@@ -1,0 +1,114 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     Datos_Proyecto_Stemmer_1 - 80-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R2-weka.filters.unsupervised.attribute.NominalToString-C1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"
+Instances:    165
+Attributes:   3015
+              [list of attributes omitted]
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+inalambr <= 0
+|   ipv6 <= 0
+|   |   clasif <= 0
+|   |   |   agent <= 0
+|   |   |   |   artificial <= 0
+|   |   |   |   |   especi <= 0
+|   |   |   |   |   |   entren <= 0
+|   |   |   |   |   |   |   liqu <= 0
+|   |   |   |   |   |   |   |   acumul <= 0
+|   |   |   |   |   |   |   |   |   siti <= 0
+|   |   |   |   |   |   |   |   |   |   virtual <= 0
+|   |   |   |   |   |   |   |   |   |   |   profesor <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   bluetooth <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   abiert <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   reduc <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   en <= 0: sistemas de informacion (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   en > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   monitore <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   papel <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   destac <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   export <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   autoriz <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   instrument <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mensaj <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   migracion <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   framework <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   agil <= 0: base de datos (41.0/5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   agil > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   herramient <= 0: sistemas de informacion (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   herramient > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   framework > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   migracion > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mensaj > 0: aplicaciones internet (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   instrument > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   autoriz > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   export > 0: aplicaciones internet (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   destac > 0: aplicaciones internet (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on > 0: aplicaciones internet (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   papel > 0: sistemas de informacion (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   monitore > 0: sistemas de informacion (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   reduc > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   analisis <= 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   analisis > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   abiert > 0: tecnologias en comunicaciones y redes de computadoras (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   bluetooth > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   |   |   |   profesor > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   |   |   virtual > 0: tecnologias en comunicaciones y redes de computadoras (3.0)
+|   |   |   |   |   |   |   |   |   siti > 0: aplicaciones internet (11.0)
+|   |   |   |   |   |   |   |   acumul > 0: inteligencia artificial (3.0/1.0)
+|   |   |   |   |   |   |   liqu > 0: inteligencia artificial (3.0)
+|   |   |   |   |   |   entren > 0: inteligencia artificial (3.0)
+|   |   |   |   |   especi > 0: inteligencia artificial (4.0)
+|   |   |   |   artificial > 0: inteligencia artificial (6.0)
+|   |   |   agent > 0: inteligencia artificial (8.0)
+|   |   clasif > 0: inteligencia artificial (13.0)
+|   ipv6 > 0: tecnologias en comunicaciones y redes de computadoras (6.0)
+inalambr > 0: tecnologias en comunicaciones y redes de computadoras (18.0)
+
+Number of Leaves  : 	30
+
+Size of the tree : 	59
+
+
+Time taken to build model: 1.38 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.02 seconds
+
+=== Summary ===
+
+Correctly Classified Instances         155               93.9394 %
+Incorrectly Classified Instances        10                6.0606 %
+Kappa statistic                          0.9222
+Mean absolute error                      0.0372
+Root mean squared error                  0.1364
+Relative absolute error                 11.8621 %
+Root relative squared error             34.452  %
+Total Number of Instances              165     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.944    0.023    0.919      0.944    0.932      0.912    0.989     0.964     aplicaciones internet
+                 0.974    0.008    0.974      0.974    0.974      0.966    0.999     0.995     tecnologias en comunicaciones y redes de computadoras
+                 0.947    0.039    0.878      0.947    0.911      0.885    0.979     0.876     base de datos
+                 1.000    0.008    0.975      1.000    0.987      0.983    1.000     0.999     inteligencia artificial
+                 0.643    0.000    1.000      0.643    0.783      0.789    0.964     0.810     sistemas de informacion
+Weighted Avg.    0.939    0.018    0.942      0.939    0.937      0.925    0.989     0.946     
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e   <-- classified as
+ 34  0  2  0  0 |  a = aplicaciones internet
+  1 37  0  0  0 |  b = tecnologias en comunicaciones y redes de computadoras
+  1  0 36  1  0 |  c = base de datos
+  0  0  0 39  0 |  d = inteligencia artificial
+  1  1  3  0  9 |  e = sistemas de informacion
+

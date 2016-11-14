@@ -1,0 +1,108 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     Datos_Proyecto_Stemmer_1 - 80-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.NominalToString-C1-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"
+Instances:    165
+Attributes:   494
+              [list of attributes omitted]
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+la <= 0
+|   olap <= 0
+|   |   ipv4 <= 0
+|   |   |   80211 <= 0
+|   |   |   |   bluetooth <= 0
+|   |   |   |   |   ipv6 <= 0
+|   |   |   |   |   |   postgr <= 0
+|   |   |   |   |   |   |   organizacional <= 0
+|   |   |   |   |   |   |   |   trabaj <= 0
+|   |   |   |   |   |   |   |   |   inalambr <= 0
+|   |   |   |   |   |   |   |   |   |   segur <= 0
+|   |   |   |   |   |   |   |   |   |   |   el <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   lom <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   xml <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   cienci <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   proyect <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mvc <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   control <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   rails <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   gener <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   electron <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   javascript <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   servici <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   clinic <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   sms <= 0: inteligencia artificial (49.0/10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   sms > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   clinic > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   servici > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   javascript > 0: aplicaciones internet (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   electron > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   gener > 0: aplicaciones internet (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   rails > 0: aplicaciones internet (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   control > 0: tecnologias en comunicaciones y redes de computadoras (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mvc > 0: base de datos (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on > 0: aplicaciones internet (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   proyect > 0: base de datos (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   cienci > 0: base de datos (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   xml > 0: base de datos (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   lom > 0: base de datos (2.0)
+|   |   |   |   |   |   |   |   |   |   |   el > 0: base de datos (2.0)
+|   |   |   |   |   |   |   |   |   |   segur > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   |   inalambr > 0: tecnologias en comunicaciones y redes de computadoras (2.0)
+|   |   |   |   |   |   |   |   trabaj > 0: sistemas de informacion (2.0)
+|   |   |   |   |   |   |   organizacional > 0: sistemas de informacion (2.0)
+|   |   |   |   |   |   postgr > 0: aplicaciones internet (13.0)
+|   |   |   |   |   ipv6 > 0: tecnologias en comunicaciones y redes de computadoras (3.0)
+|   |   |   |   bluetooth > 0: tecnologias en comunicaciones y redes de computadoras (3.0)
+|   |   |   80211 > 0: tecnologias en comunicaciones y redes de computadoras (5.0)
+|   |   ipv4 > 0: tecnologias en comunicaciones y redes de computadoras (16.0)
+|   olap > 0: sistemas de informacion (5.0)
+la > 0: base de datos (26.0)
+
+Number of Leaves  : 	27
+
+Size of the tree : 	53
+
+
+Time taken to build model: 0.17 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Summary ===
+
+Correctly Classified Instances         148               89.697  %
+Incorrectly Classified Instances        17               10.303  %
+Kappa statistic                          0.8676
+Mean absolute error                      0.0594
+Root mean squared error                  0.1724
+Relative absolute error                 18.9587 %
+Root relative squared error             43.5549 %
+Total Number of Instances              165     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.833    0.023    0.909      0.833    0.870      0.836    0.969     0.909     aplicaciones internet
+                 0.895    0.008    0.971      0.895    0.932      0.913    0.984     0.953     tecnologias en comunicaciones y redes de computadoras
+                 0.947    0.024    0.923      0.947    0.935      0.915    0.997     0.986     base de datos
+                 1.000    0.079    0.796      1.000    0.886      0.856    0.960     0.796     inteligencia artificial
+                 0.643    0.000    1.000      0.643    0.783      0.789    0.973     0.846     sistemas de informacion
+Weighted Avg.    0.897    0.031    0.908      0.897    0.896      0.873    0.977     0.905     
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e   <-- classified as
+ 30  0  1  5  0 |  a = aplicaciones internet
+  1 34  0  3  0 |  b = tecnologias en comunicaciones y redes de computadoras
+  1  1 36  0  0 |  c = base de datos
+  0  0  0 39  0 |  d = inteligencia artificial
+  1  0  2  2  9 |  e = sistemas de informacion
+
