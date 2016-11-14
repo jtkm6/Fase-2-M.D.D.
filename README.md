@@ -17,9 +17,9 @@ mención a la que pertenece cada TEG.
 ## Ejecucion del Programa
 - - - -
 
-Mediante el uso del árbol de decisión generado por WEKA se pasmo este árbol en una aplicación en Python que lee del archivo “Datos_Proyecto_Clasificar.txt” ubicado en la carpeta [In/] las palabras claves de cada TEG e imprime por consola la mención a la que se presume corresponde.
+Mediante el uso del árbol de decisión generado por WEKA se pasmo este árbol en una aplicación en Python que lee del archivo [Datos_Proyecto_Clasificar.txt] ubicado en la carpeta [In/] las palabras claves de cada TEG e imprime por consola la mención a la que se presume corresponde.
 
-Para la ejecución del programa basta con colocar el archivo `Datos_Proyecto_Clasificar.txt` dentro de la carpeta [In/], luego debemos abrir una terminal y cargar el "virtual environment" de `Python 3.5`.
+Para la ejecución del programa basta con colocar el archivo [Datos_Proyecto_Clasificar.txt] dentro de la carpeta [In/], luego debemos abrir una terminal y cargar el "virtual environment" de `Python 3.5`.
 
 ```bash
 Mineria De Datos>PythonData\Scripts\activate.bat
@@ -44,10 +44,10 @@ Primeramente, se hicieron algunos ajustes adicionales previo al estudio de los d
 Antes de aplicar un proceso de clasificación es usual dividir los datos de entrada (training set) en dos partes, una de alrededor de un 60% - 80%, este conjunto más grande es el usado para crear el modelo, y los datos restantes son usados como datos de prueba (test set) en WEKA para medir la precisión del modelo creado. Este último paso se hace para evitar un problema de sobreajuste, ya que, si le damos demasiados datos a nuestro modelo, el mismo será realmente bueno, pero solo para ese conjunto de datos. Y el objetivo de este proyecto es encontrar un modelo que permita predecir en un futuro que menciones deben ser asignadas, y para testear nuestro modelo se usará la otra parte de esta forma nos aseguramos de que la precisión de nuestro modelo no disminuirá con datos nuevos.
 
 ### Son creados los archivos:
-- Datos_Proyecto_Stemmer_1 - 20 - filtrado - palabras_claves.arff
-- Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff
-- Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff
-- Datos_Proyecto_Stemmer_1 - 80 - filtrado - resumen.arff
+- [Datos_Proyecto_Stemmer_1 - 20 - filtrado - palabras_claves.arff]
+- [Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff]
+- [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff]
+- [Datos_Proyecto_Stemmer_1 - 80 - filtrado - resumen.arff]
 
 ## Algoritmo utilizado:
 - - - -
@@ -60,7 +60,7 @@ J48 es una implementación de código abierto en lenguaje de programación Java 
 ## Proceso de Minería de Datos:
 - - - -
 
-Comenzamos con el archivo Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff, una vez cargado en WEKA, en la pestaña Classify se seleccionó el algoritmo a usar para crear el árbol de decisión, en este caso es el J48 y se ejecutó la función.
+Comenzamos con el archivo [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff], una vez cargado en WEKA, en la pestaña Classify se seleccionó el algoritmo a usar para crear el árbol de decisión, en este caso es el J48 y se ejecutó la función.
 
 ![GitHub Logo](./img/1.png)
 
@@ -75,7 +75,7 @@ En este caso no ayuda mucho, así que se procede a interpretar lo arrojado por e
 Una vez obtenidos los resultados se procede a su análisis, en primer lugar, se observa que por el momento el modelo obtenido cuenta con una precisión bastante alta (Correctly Classified Instances) de alrededor de un 90%. Este valor es bastante bueno para continuar trabajando con este modelo.
 Observando luego la matriz de confusión generada es fácil darse cuenta de que no hubo muchos falsos positivos o falsos negativos. Por ejemplo, de las 36 instancias pertenecientes a la mención “aplicaciones internet”, solo 6 van a ser clasificadas de manera incorrecta, de igual manera de las 38 instancias pertenecientes a la mención base de datos solo 2 van a ser clasificadas incorrectamente usando este modelo. 
 Esto último nos hace pensar que realmente el modelo generado no dista mucho de la realidad. Ahora solo hay que probarlo con los datos restantes para saber si la precisión del modelo se mantiene con datos nuevos.
-Ahora se selecciona la opción Supplied test Set, con la cual se probará el modelo creado. Usando el archivo Datos_Proyecto_Stemmer_1 - 20 - filtrado - palabras_claves.arff. 
+Ahora se selecciona la opción Supplied test Set, con la cual se probará el modelo creado. Usando el archivo [Datos_Proyecto_Stemmer_1 - 20 - filtrado - palabras_claves.arff]. 
 
 ![GitHub Logo](./img/4.png)
 
@@ -83,11 +83,11 @@ Al ejecutarlo de nuevo, se obtienen unos nuevos resultados, (Correctly Classifie
 
 ![GitHub Logo](./img/5.png)
 
-Por otro lado, se procede a ejecutar los mismos pasos, pero esta vez con los atributos resumen – mención. Al usar el algoritmo J48 sobre Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff se obtienen los resultados mostrados en el archivo j48_de_resumen.txt, muestra una precisión de 93%, qué es increíblemente alta.  La matriz de confusión también parece muy buena.
+Por otro lado, se procede a ejecutar los mismos pasos, pero esta vez con los atributos resumen – mención. Al usar el algoritmo J48 sobre [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff] se obtienen los resultados mostrados en el archivo j48_de_resumen.txt, muestra una precisión de 93%, qué es increíblemente alta.  La matriz de confusión también parece muy buena.
 
 ![GitHub Logo](./img/6.png)
 
-Para probar que tan fiable es este modelo se continúa con la prueba del mismo por medio del archivo Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff, y al hacerlo se obtienen resultados muy interesantes, prácticamente el nuevo output  está vacío. (Incorrectly Classified Instances) indica que tantas instancias fueron clasificadas incorrectamente, y en este caso de las 47 instancias de prueba, ninguna pudo ser clasificada de manera acertada. El modelo no funciona correctamente.
+Para probar que tan fiable es este modelo se continúa con la prueba del mismo por medio del archivo [Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff], y al hacerlo se obtienen resultados muy interesantes, prácticamente el nuevo output  está vacío. (Incorrectly Classified Instances) indica que tantas instancias fueron clasificadas incorrectamente, y en este caso de las 47 instancias de prueba, ninguna pudo ser clasificada de manera acertada. El modelo no funciona correctamente.
 
 ![GitHub Logo](./img/7.png)
 
@@ -110,6 +110,11 @@ Para probar que tan fiable es este modelo se continúa con la prueba del mismo p
 **C.I.:** 23.692.079  
 **E-Mail:** jtkm6jk@gmail.com
 
-   [App.py]: <./Clasificador.py>
+   [Clasificador.py]: <./Clasificador.py>
    [In/]: <./In/>
    [PythonData/]: <./PythonData/>
+   [Datos_Proyecto_Stemmer_1 - 20 - filtrado - palabras_claves.arff]: <./Datos_Proyecto_Stemmer_1 - 20 - filtrado - palabras_claves.arff>
+   [Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff]: <./Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff]>
+   [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff]: <./Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff]>
+   [Datos_Proyecto_Stemmer_1 - 80 - filtrado - resumen.arff]: <./Datos_Proyecto_Stemmer_1 - 80 - filtrado - resumen.arff>
+   [Datos_Proyecto_Clasificar.txt]: <./In/[Datos_Proyecto_Clasificar.txt>
