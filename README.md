@@ -120,5 +120,5 @@ Para probar que tan fiable es este modelo se continúa con la prueba del mismo p
    [Datos_Proyecto_Clasificar.txt]: <./In/Datos_Proyecto_Clasificar.txt>
    [j48_de_palabras_claves.txt]: <./j48_de_palabras_claves.txt>
    [j48_de_resumen.txt]: <./j48_de_resumen.txt>
-   [j48_de_palabras claves_test.txt]: <./j48_de_palabras claves_test.txt>
+   [j48_de_palabras claves_test.txt]: <./j48_de_palabras_claves_test.txt>
    [j48_de_resumen_test.txt]: <./j48_de_resumen_test.txt>
