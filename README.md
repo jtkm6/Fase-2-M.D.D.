@@ -117,4 +117,4 @@ Para probar que tan fiable es este modelo se continúa con la prueba del mismo p
    [Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff]: <./Datos_Proyecto_Stemmer_1 - 20 - filtrado - resumen.arff]>
    [Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff]: <./Datos_Proyecto_Stemmer_1 - 80 - filtrado - palabras_claves.arff]>
    [Datos_Proyecto_Stemmer_1 - 80 - filtrado - resumen.arff]: <./Datos_Proyecto_Stemmer_1 - 80 - filtrado - resumen.arff>
-   [Datos_Proyecto_Clasificar.txt]: <./In/[Datos_Proyecto_Clasificar.txt>
+   [Datos_Proyecto_Clasificar.txt]: <./In/Datos_Proyecto_Clasificar.txt>
